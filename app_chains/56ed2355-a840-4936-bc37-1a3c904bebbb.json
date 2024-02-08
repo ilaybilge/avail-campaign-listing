@@ -1,0 +1,8 @@
+{
+  "name": "ilaybilge",
+  "logo": "https://raw.githubusercontent.com/ilaybilge/chain-registry/main/devnet/ilaybilge_4650277-1/logos/ilaybilge_4650277-1.png",
+  "rpc_url": "http://194.163.159.100:9944",
+  "explorer_url": "http://194.163.159.100:4000",
+  "metrics_endpoint": "http://194.163.159.100:9615/metrics",
+  "id": "56ed2355-a840-4936-bc37-1a3c904bebbb"
+}
